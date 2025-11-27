@@ -20,7 +20,7 @@
   <a href="tel:+91-6391440384">
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Vivek-Mishra-2&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
