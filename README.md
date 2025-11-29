@@ -25,7 +25,7 @@
 ---
 
 ## 👨‍💻 About Me
-```typescript
+
 const vivek = {
     role: "Project Manager & Team Lead",
     location: "Kanpur, Uttar Pradesh, India 🇮🇳",
@@ -54,7 +54,7 @@ const vivek = {
         compliance: "100% on government projects"
     }
 };
-```
+
 
 <div align="center">
   
